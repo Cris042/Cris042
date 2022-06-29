@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Estou cursando <strong>Sistema de Informação</strong>.<br>
-  e sou um entusiasta pela programação.<br>
+  E sou um entusiasta pela programação.<br>
 </p>
 
 <br>
