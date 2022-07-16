@@ -3,8 +3,7 @@
 <h3>Hello world💻</h3>
 
 <p align="left"> 
-  Estou cursando <strong>Sistema de Informação</strong>.<br>
-  E sou um entusiasta pela programação.<br>
+  Entusiasta das melhores tecnologias de desenvolvimento back-end.<br>
 </p>
 
 <br>
