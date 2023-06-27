@@ -5,9 +5,11 @@
 <p align="left"> 
  Acadêmico do curso de Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí.<br>
 
-Desenvolvedor e entusiasta pela área da computação. Gosto de aprender novas tecnologias, tenho como objetivo melhorar a vida das pessoas com auxílio da informática.<br>
+Sou um desenvolvedor e entusiasta apaixonado pela área da computação. Estou constantemente buscando aprender novas tecnologias e tenho como objetivo utilizar a informática para melhorar a vida das pessoas.<br>
 
- Tenho experiência em desenvolvimento web fullstack, utilizando Php ( Laravel Framework ), Java ( Spring Boot Framework ) e Typescript ( React e Node ) ..<br>
+ Tenho experiência em desenvolvimento web Full Stack, utilizando Laravel, Spring Boot, React e Node. <br>
+
+ Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e habilidades, e estou aberto a novos projetos e colaborações.<br>
 </p>
 
 <br>
