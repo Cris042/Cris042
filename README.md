@@ -15,12 +15,6 @@ Sou um desenvolvedor e entusiasta apaixonado pela área da computação. Estou c
 <br>
 
 <p align="left">
-  <strong>🚀 Linguagens</strong>
-  <br>
-  <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cris042&show_icons=true&locale=en&layout=compact"/></p>
-</p>
-
-<p align="left">
   <strong>Contato</strong>
 </p>
 
