@@ -7,7 +7,7 @@
 
 Sou um desenvolvedor e entusiasta apaixonado pela área da computação. Estou constantemente buscando aprender novas tecnologias e tenho como objetivo utilizar a informática para melhorar a vida das pessoas.<br>
 
- Tenho experiência em desenvolvimento web Full Stack, utilizando Php ( Laravel ), Java ( Spring Boot ) e Angular . <br>
+ Tenho experiência em desenvolvimento web , utilizando Php ( Laravel ), Java ( Spring Boot ) e Angular . <br>
 
  Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e habilidades, e estou aberto a novos projetos e colaborações.<br>
 </p>
