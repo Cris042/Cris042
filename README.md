@@ -3,13 +3,7 @@
 <h3>Hello world💻</h3>
 
 <p align="left"> 
- Acadêmico do curso de Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí.<br>
-
-Sou um desenvolvedor e entusiasta apaixonado pela área da computação. Estou constantemente buscando aprender novas tecnologias e tenho como objetivo utilizar a informática para melhorar a vida das pessoas.<br>
-
- Tenho experiência em desenvolvimento web , utilizando Php ( Laravel ), Java ( Spring Boot ) e Angular . <br>
-
- Estou sempre em busca de desafios e oportunidades para aplicar meus conhecimentos e habilidades, e estou aberto a novos projetos e colaborações.<br>
+Desenvolvedor web com experiência na utilização das linguagens Java, PHP e TypeScript, bem como nos respectivos frameworks Spring, Laravel e Angular. 
 </p>
 
 <br>
