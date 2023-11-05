@@ -3,7 +3,7 @@
 <h3>Hello world💻</h3>
 
 <p align="left"> 
-Desenvolvedor web com experiência na utilização das linguagens Java, PHP e TypeScript, bem como nos respectivos frameworks Spring, Laravel e Angular. 
+Desenvolvedor web com experiência sólida em linguagens, incluindo Java, PHP e TypeScript, e domínio de seus frameworks correspondentes, como Spring, Laravel e Angular.
 </p>
 
 <br>
