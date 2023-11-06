@@ -3,7 +3,7 @@
 <h3>Hello world💻</h3>
 
 <p align="left"> 
-Desenvolvedor web com experiência sólida em linguagens, incluindo Java, PHP e TypeScript, e domínio de seus frameworks correspondentes, como Spring, Laravel e Angular.
+Iniciei minha trajetória como desenvolvedor FullStack em 2021, desempenhando um papel crucial em diversos projetos. Minha expertise abrange linguagens de programação como Java, PHP e TypeScript, possuo domínio de seus respectivos frameworks, incluindo Spring, Laravel e Angular. TAlém disso, dediquei-me ao desenvolvimento utilizando Nest.js e Next.js em projetos acadêmicos e cursos.
 </p>
 
 <br>
