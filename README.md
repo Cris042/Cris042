@@ -3,7 +3,7 @@
 <h3>Hello world💻</h3>
 
 <p align="left"> 
-Iniciei minha carreira como desenvolvedor FullStack em 2021, desempenhando um papel essencial em diversos projetos. Minha expertise abrange linguagens de programação, como Java, PHP e TypeScript, e possuo domínio de seus respectivos frameworks, incluindo Spring, Laravel e Angular.
+Iniciei minha carreira como engenheiro de software em 2021, desempenhando um papel essencial em diversos projetos. Minha experiência profissional abrange linguagens de programação, como Java, PHP e TypeScript, possuo domínio de seus respectivos frameworks, incluindo Spring, Laravel e Angular.
 </p>
 
 <br>
