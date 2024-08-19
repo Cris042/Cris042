@@ -1,9 +1,8 @@
-<img src="./cute-astronaut-operating-laptop.gif" min-width="400" max-width="400" width="400" align="right" alt="Ilustração azanniel">
 
-<h3>Hello world💻</h3>
+
 
 <p align="left"> 
-Iniciei minha carreira como engenheiro de software em 2022, desempenhando um papel essencial em diversos projetos. Minha experiência profissional abrange linguagens de programação, como Java e TypeScript, possuo domínio de seus respectivos frameworks, Spring e Angular.
+Iniciei minha carreira como desenvolvedor em 2022. Minha experiência abrange linguagens e frameworks como Java, PHP, Spring Boot, Laravel. No campo de testes, utilizei ferramentas como Mockito e JUnit. Em infraestrutura e DevOps, empreguei tecnologias como AWS, Firebase, Grafana, Docker e Jenkins. Além disso, trabalhei com processamento em lote e mensageiria, utilizando Spring Batch e ActiveMQ. Possuo também experiência sólida em metodologias ágeis e padrões de projeto, incluindo Kanban, Scrum, SOLID, Factory, TDD e CI/CD.
 </p>
 
 <br>
