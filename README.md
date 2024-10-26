@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-Iniciei minha carreira como desenvolvedor em 2022. Minha experiência abrange linguagens e frameworks como Java, PHP, Spring Boot, Laravel. No campo de testes, utilizei ferramentas como Mockito e JUnit. Em infraestrutura e DevOps, empreguei tecnologias como AWS, Firebase, Grafana, Docker e Jenkins. Além disso, trabalhei com processamento em lote e mensageiria, utilizando Spring Batch e ActiveMQ. Possuo também experiência sólida em metodologias ágeis e padrões de projeto, incluindo Kanban, Scrum, SOLID, Factory, TDD e CI/CD.
+Desenvolvedor com experiência em Java, Spring Boot e Angular, testes unitários e de integração (Mockito, JUnit), DevOps (AWS, Docker, Jenkins) e processamento em lote (Spring Batch). Familiaridade com metodologias ágeis (Kanban, Scrum), padrões de projeto (SOLID, Factory) e práticas de TDD e CI/CD.
 </p>
 
 <br>
