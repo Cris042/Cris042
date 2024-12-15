@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-Desenvolvedor com experiência em Java, Spring Boot e Angular, testes unitários e de integração (Mockito, JUnit), DevOps (AWS, Docker, Jenkins) e processamento em lote (Spring Batch). Familiaridade com metodologias ágeis (Kanban, Scrum), padrões de projeto (SOLID, Factory) e práticas de TDD e CI/CD.
+  Analista e desenvolvedor de sistemas com ampla experiência em desenvolvimento web fullstack, com foco no back-end. Proficiente em processamento batch e integração de mensageria utilizando RabbitMQ. Sólido conhecimento em Java com Spring Framework e Angular no front-end. Experiência em serviços de cloud computing (AWS e GCP), automação com Jenkins para CI/CD e conteinerização com Docker. Habilidade em trabalhar com arquiteturas monolíticas e baseadas em microsserviços. 
 </p>
 
 <br>
