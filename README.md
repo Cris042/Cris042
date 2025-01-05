@@ -2,9 +2,9 @@
 
 
 <p align="left"> 
-Analista e desenvolvedor de sistemas com experiência em desenvolvimento web fullstack, com foco predominante no back-end. Possuo conhecimentos em Java, Spring Framework e Angular.
+Analista e Desenvolvedor de Sistemas com ampla experiência em desenvolvimento web fullstack, focando predominantemente no back-end. Possuo sólida expertise em Java (Spring Framework) e JavaScript (Angular). Também possuo familiaridade com C, Go e Python.
 
-Tenho experiência em cloud computing (AWS e GCP), automação de pipelines de CI/CD com Jenkins, conteinerização de serviços utilizando Docker, processamento em lote, integração de mensageria com RabbitMQ e criação de testes unitários e de integração utilizando Mockito e JUnit.
+Tenho experiência em cloud computing (AWS), automação de pipelines de CI/CD com Jenkins, conteinerização de serviços utilizando Docker, processamento em lote, integração de mensageria com RabbitMQ e criação de testes unitários e de integração utilizando Mockito e JUnit.
 </p>
 
 <br>
