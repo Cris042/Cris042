@@ -2,12 +2,12 @@
 
 
 <p align="left"> 
-Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento full stack, focando predominantemente no back-end. 
+Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento full stack, com ênfase no back-end com atuação em arquitetura de microsserviços e arquitetura hexagonal.
 
 - Linguagens e Frameworks: Java (Spring Framework, Quarkus), TypeScript (Angular).
 - Bancos de Dados: MySQL, PostgreSQL, Firestore.
 - Ferramentas: AWS, Docker, Kubernetes, RabbitMQ, Mockito, JUnit, Spring Batch, Jenkins.
-- Boas Práticas e Padrões: TDD, CI/CD, SOLID.
+- Boas Práticas: TDD, CI/CD, SOLID.
 - Metodologias Ágeis: Scrum, Kanban.
 </p>
 
