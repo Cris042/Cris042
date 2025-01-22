@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento fullstack, focando predominantemente no back-end. 
+Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento full stack, focando predominantemente no back-end. 
 
 - Linguagens e Frameworks: Java (Spring Framework, Quarkus), TypeScript (Angular).
 - Bancos de Dados: MySQL, PostgreSQL, Firestore.
