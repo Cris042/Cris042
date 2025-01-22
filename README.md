@@ -2,9 +2,13 @@
 
 
 <p align="left"> 
-Analista e Desenvolvedor de Sistemas com ampla experiência em desenvolvimento web fullstack, focando predominantemente no back-end. Possuo sólida experiência em Java (Spring Framework e Quarkus) e TypeScript (Angular). 
+Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento fullstack, focando predominantemente no back-end. 
 
-Possuo experiência em DevOps, incluindo AWS, Jenkins, Docker e Kubernetes, além de atuar com processamento em lote, mensageria, testes unitários e de integração. Tenho conhecimento em práticas como TDD, CI/CD e aplicação de padrões de projeto, como SOLID e Factory. Além disso, trabalho alinhadamente a metodologias ágeis, como Scrum e Kanban.
+- Linguagens e Frameworks: Java (Spring Framework, Quarkus), TypeScript (Angular).
+- Bancos de Dados: MySQL, PostgreSQL, Firestore.
+- Ferramentas: AWS, Docker, Kubernetes, RabbitMQ, Mockito, JUnit, Spring Batch, Jenkins.
+- Boas Práticas e Padrões: TDD, CI/CD, SOLID.
+- Metodologias Ágeis: Scrum, Kanban.
 </p>
 
 <br>
