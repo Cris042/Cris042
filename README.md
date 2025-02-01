@@ -2,10 +2,10 @@
 
 
 <p align="left"> 
-Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento full stack, com ênfase no back-end. Participei de projetos que incluíram desde a sustentação de sistemas até a migração de arquitetura monolítica para microsserviços.
+Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento full stack, com ênfase no back-end. 
 
-- Linguagens: Java, TypeScript, PHP.
-- DevOps: Git, AWS, Docker, Kubernetes.
+- Linguagens: Java, TypeScript.
+- DevOps: Git, AWS, Docker, Kubernetes, Kafka, RabbitMQ.
 - Boas Práticas: TDD, SOLID, CI/CD.
 - Metodologias Ágeis: Kanban, Scrum.
 </p>
