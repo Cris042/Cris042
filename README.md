@@ -4,7 +4,7 @@
 <p align="left"> 
 Analista e Desenvolvedor de Sistemas com experiência em desenvolvimento full stack, com ênfase no back-end. 
 
-- Linguagens: Java, TypeScript.
+- Linguagens: Java, TypeScript E PHP.
 - DevOps: Git, AWS, Docker, Kubernetes, Kafka, RabbitMQ.
 - Boas Práticas: TDD, SOLID, CI/CD.
 - Metodologias Ágeis: Kanban, Scrum.
